@@ -1,1 +1,1 @@
-# Clustering-exercise-10
+# Example of README.md 
